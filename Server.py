@@ -96,7 +96,7 @@ if __name__ == '__main__':
 # GET ALL & POST- http://127.0.0.1:5000/api/users
 # GET SINGLE, PUT & DELETE - http://127.0.0.1:5000/api/users/<user_id>
 
-#BODY EXAMPLES:
+#BODY EXAMPLES :
 
 # POST - http://127.0.0.1:5000/api/users
 {
